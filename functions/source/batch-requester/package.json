@@ -7,8 +7,8 @@
     "license": "MIT",
     "dependencies": {
         "async": "~2.6.0",
-        "deasync": "~0.1.12",
-        "aws-sdk": "~2.203.0",
-        "aws-helpers": "file:../aws-helpers"
+        "aws-helpers": "file:../aws-helpers",
+        "aws-sdk": "^2.814.0",
+        "deasync": "~0.1.12"
     }
 }
